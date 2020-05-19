@@ -89,3 +89,12 @@ https://docs.google.com/presentation/d/1udqMdMF_U_VMD5L5GbfhC-EZ6Xhor0HGSMZFOiK8
 • Slideware de Jérome Bourgeon (Singapore) sur les success stories de nos clients : 
 https://docs.google.com/presentation/d/1cTKsM0Hpy405_byHZj4oPvH9e-XYwinQLLKa5XZdQrA
 À partir du slide 25, on peut imaginer ce que serait l'extraction de toute cette donnée pour en faire le CV d'une seule personne.
+
+## Profil
+
+Outil pour aider un consultant à se créer son image / faire valoir son profil.
+Le but serait de pouvoir afficher son flux d'actu de ses actions sur divers services. Un genre de "github activities" mais multi services.
+L'idée est de créer son image professionnelle en partie au travers de ce flux d'activité. X contributions sur Github, Y réponses sur StackOverflow, Z posts / commentaires linkedIn etc. Ca permet de mieux cerner le bonhomme.
+On peut imaginer pas mal de choses et suivant le niveaux de granularité ça peut même être bcp plus pertinant qu'un simple CV.
+
+Le but n'est pas de créer une plateforme mais plus un client qui génère quelque chose (json, web component, etc) que le dev s'approprie (customisation) et utilise là ou il le souhaite. Dans son site web perso par exemple.
