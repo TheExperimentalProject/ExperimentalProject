@@ -1,100 +1,73 @@
-# Experimental Project
+# The Experimental Project
 
-Attention ce projet est rattaché à aucune entreprise et donc pas à Zenika.
-Des Zénika sont à l'intiative de ce projet mais Zénika ne pilote pas ce projet.
+The Experimental Project est une communauté asynchrone de développeurs francophones.
 
-Ce projet est un projet qui vise à être open source.
-Travailler sur ce projet sur votre temps libre si vous le souhaitez uniquement :).
+## Le pourquoi ("why ?")
 
-# But
+Le but de cette communauté est de faire des expérimentations. Nous voulons créer une cour de récréation pour les développeurs (mais pas de vol de goûter ici ;)).
 
-Le but de se projet est de faire des expérimentations. Tant sur :
-- la gestion du projet / produit
-- l'annomation de la communauté
-- les technos
+Tant sur :
+
+- l'animation d'une communauté
+- la gestion de produits / projets (rattaché à la communauté)
+- les technos mis en oeuvre dans les projets
 - les pratiques de dev
 - ETC
 
-# Manifeste du projet
+Vous pourriez vouloir nous rejoindre pour vous amuser sur de nouveaux langages, faire du pair/mob programming. 🧑‍💻👩‍💻
 
-Nous, membres de ce projet, garantissons faire notre maximum pour :
+## Manifeste de la communauté
+
+Nous, membres de cette communauté, garantissons faire notre maximum pour :
+
 - être bienveillant
 - être ouvert
 - être collaboratif
 
-# Produit(s)
+## Fonctionnement de la communauté
 
-Pour faire des expérimentations il faut une base. Quoi de mieux qu'un projet fédérateur un minimum complexe !
+La communauté se matérialise autour d'un [discord](https://discord.gg/PZaEc6B), ainsi que d'une organisation [github](https://github.com/orgs/TheExperimentalProject/).
 
-Nous travaillons de le domaine de l'IT et avons fait les constats suivants :
-- Pour un client il n'est pas simple de trouver le développeur qui possède l'expertise recherché
-- Dans une ESN, il n'est pas simple de trouver le consultant qui répond aux demandes d'un client
-- Pour un dev, faire son CV n'est pas toujours très agréable / fun (outils pas au top, bcp de duplication entre des outils (CVs, formations, expertises, LinkedIn, etc))
+### Rejoindre la communauté
 
-## Jukuzen
+Vous pouvez intégrer la communauté en rejoignant le [discord](https://discord.gg/PZaEc6B). Vous y retrouverez les channels suivantes :
 
-Produit imaginé par Benoit C. Pas le blabla d'un CV, on se focus sur les compétences et sur les apétences.
+- `#reglement` : Présentation des règles de la communauté 🤝,
+- `#présentation` : Présentez-vous 😉,
+- `#help` : Salon d'entraide 🤜🤛,
+- `#chat-general` : Parler de tout et n'importe quoi 🤪,
+- `#proposition-projet` : Proposez votre projet 👐.
 
-Les buts :
-- permettre aux clients de trouver les experts qui matchent le mieux avec leurs besoins.
-- permettre aux commerciaux de savoir si des consultants disposent de l'expertise recherché.
+Vous pouvez venir proposer un projet, ou contribuer aux projets existants.
 
-https://docs.google.com/presentation/d/1P6EUpPUTZy5e3Bj7idOZEHU1MGsGMuGC1sdv8Gz11yc/edit#slide=id.p1
+### Contribuer à un projet
 
-## app CV
+Chaque projet possède son repository au sein de l'organisation Github.
+Dans le README.md de chaque projet vous aurez une description du pourquoi du projet et de comment y contribuer (CONTRIBUTING.md).
 
-Application permettant au consultant de rédiger son cv.
+Un channel discord est également dédié à chaque projet, vous pouvez donc le rejoindre et commencer à intéragir avec cette "sous-communauté".
 
-### resume Zenika
+### Proposer un projet
 
-Les reproches fait à https://resume.zenika.com
+Pour proposez un projet, rendez-vous sur la channel `#proposition-projet` sur Discord, et expliquez le brievement.
 
-UX
-• Peu user friendly, long et fastidieux
-• On passe 1/2 journée à ajouter une mission
-• Un espace d'écriture du CV plus "intuitif" et plus simple en terme de lisibilité (WYSIWYG)
-• Scroll non synchronisé entre la partie saisie et la partie préview (encore un argument pour le WYSIWYG)
-• Pas de versioning des CVs d'où les écrasements et l'impossibilité de restaurer une version antérieure
-• Pas possible de supprimer un CV
+Énoncer aussi l'ambition de votre projet :
 
-Export PDF
-• Simplifier l'export : pourquoi devoir passer par une impression ?
-• Toujours très compliqué de mettre en forme les sauts de page
-• Mise en forme vraiment fastidieuse
-• Hasardeux
+- Pour qui ?
+- Pourquoi ?
+- Comment ?
+- Avez-vous imaginé une organisation ? (ex : mob programming tous les mercredis midi)
+- Sera t'il open-source ? Comptez-vous en faire un produit ?
+- Est-ce pour explorer une pratique de dev ou une techno ou est-ce our répondre à un "vrai besoin" ?
 
-Les features à ajouter
-• Paragraphe "à propos du consultant"
-• Grille de compétences
-• Moteur de recherche sur les compétences
-• Anonymisation
-• Version anglaise
-• Avoir 2 versions d'un même CV : une en 1+1 slides et une autre complète
-• Export Word ou équivalent
-• Permettre de donner une URL au client plutôt qu'un export pdf ==> Valider avec le DPO pour RGPD : Marie
-• Décorréler complètement le fond de la forme => JSON, YAML, XML, etc.
-• Gérer le cycle de vie des CVs
-• Une navigation plus aisée (Recherche, Résultats, ...)
-• Une manière simple de permettre à quelqu'un qui n'a pas encore de compte Zenika de créer son CV dans la base CV => Extraction JSON from LinkedIn ou DoYouBuzz
+Exemple de proposition :
 
-Piste de solution
-• Utiliser le standard JSON-Resume
-• Utiliser le standard FRESH + HackMyResume
-• Utiliser un service existant : https://www.codeur.com/blog/outils-creer-cv-en-ligne/
-• Utiliser un template Google Docs
-
-Des liens intéressants permettant d'ouvrir le champ de vision sur la CVthèque 
-• CV de Yann LE TANOU en mode 1+1 slide :
-https://docs.google.com/presentation/d/1udqMdMF_U_VMD5L5GbfhC-EZ6Xhor0HGSMZFOiK87L0
-• Slideware de Jérome Bourgeon (Singapore) sur les success stories de nos clients : 
-https://docs.google.com/presentation/d/1cTKsM0Hpy405_byHZj4oPvH9e-XYwinQLLKa5XZdQrA
-À partir du slide 25, on peut imaginer ce que serait l'extraction de toute cette donnée pour en faire le CV d'une seule personne.
-
-## Profil
-
-Outil pour aider un consultant à se créer son image / faire valoir son profil.
-Le but serait de pouvoir afficher son flux d'actu de ses actions sur divers services. Un genre de "github activities" mais multi services.
-L'idée est de créer son image professionnelle en partie au travers de ce flux d'activité. X contributions sur Github, Y réponses sur StackOverflow, Z posts / commentaires linkedIn etc. Ca permet de mieux cerner le bonhomme.
-On peut imaginer pas mal de choses et suivant le niveaux de granularité ça peut même être bcp plus pertinant qu'un simple CV.
-
-Le but n'est pas de créer une plateforme mais plus un client qui génère quelque chose (json, web component, etc) que le dev s'approprie (customisation) et utilise là ou il le souhaite. Dans son site web perso par exemple.
+- Les possésseurs de crypto monnaies
+- Il est difficile de connaître le capital en crypto-monnaies quant on en a plusieurs, et sur plusieurs plateformes.
+- Une "command line interface" permettant :
+  - d'ajouter une plateforme d'échange
+  - d'agréger le solde total en une devise cible
+  - Rust ?
+- Contribution libre, ouvert au pair/mob programming en fonction des disponibilités
+- Entièrement libre de droits
+- Les deux si on utilise Rust 😛
