@@ -4,15 +4,15 @@ The Experimental Project est une communauté asynchrone de développeurs francop
 
 ## Le pourquoi ("why ?")
 
-Le but de cette communauté est de faire des expérimentations. Nous voulons créer une cour de récréation pour les développeurs (mais pas de vol de goûter ici ;)).
+Le but de cette communauté est de faire des expérimentations. Nous voulons créer une cour de récréation où les développeurs pourraient s'entraider (mais pas de vol de goûter ici ;)).
 
 Tant sur :
 
 - l'animation d'une communauté
-- la gestion de produits / projets (rattaché à la communauté)
-- les technos mis en oeuvre dans les projets
+- la gestion de produits / projets rattachés à la communauté
+- les technos mises en oeuvre
 - les pratiques de dev
-- ETC
+- etc...
 
 Vous pourriez vouloir nous rejoindre pour vous amuser sur de nouveaux langages, faire du pair/mob programming. 🧑‍💻👩‍💻
 
@@ -32,10 +32,11 @@ La communauté se matérialise autour d'un [discord](https://discord.gg/PZaEc6B)
 
 Vous pouvez intégrer la communauté en rejoignant le [discord](https://discord.gg/PZaEc6B). Vous y retrouverez les channels suivantes :
 
-- `#reglement` : Présentation des règles de la communauté 🤝,
-- `#présentation` : Présentez-vous 😉,
-- `#help` : Salon d'entraide 🤜🤛,
-- `#chat-general` : Parler de tout et n'importe quoi 🤪,
+- `#presentation-generale` : Présentation des règles de la communauté 🤝,
+- `#la-place-publique` : Un channel ouvert à tous, pour faire connaissance avec la communauté
+- `#les-membres` : Les membres de la communauté se présentent 😉
+- `#general` : The place to be pour trouver une collaboration !
+- `#random` : Parler de tout et n'importe quoi 🤪,
 - `#proposition-projet` : Proposez votre projet 👐.
 
 Vous pouvez venir proposer un projet, ou contribuer aux projets existants.
@@ -62,12 +63,12 @@ Pour proposez un projet, rendez-vous sur la channel `#proposition-projet` sur Di
 
 Exemple de proposition :
 
-- Les possésseurs de crypto monnaies
-- Il est difficile de connaître le capital en crypto-monnaies quant on en a plusieurs, et sur plusieurs plateformes.
-- Une "command line interface" permettant :
+- Pour qui ? Les possésseurs de crypto monnaies
+- Pourquoi ? Il est difficile de connaître le capital en crypto-monnaies quant on en a plusieurs, et sur plusieurs plateformes.
+- Comment ? Une "command line interface" permettant :
   - d'ajouter une plateforme d'échange
   - d'agréger le solde total en une devise cible
   - Rust ?
-- Contribution libre, ouvert au pair/mob programming en fonction des disponibilités
+- C'est Open Source ? Contribution libre, ouvert au pair/mob programming en fonction des disponibilités
 - Entièrement libre de droits
-- Les deux si on utilise Rust 😛
+- Est-ce pour explorer une pratique de dev ou une techno ou est-ce our répondre à un "vrai besoin" ? Les deux si on utilise Rust 😛
