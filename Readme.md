@@ -26,11 +26,11 @@ Nous, membres de cette communauté, garantissons faire notre maximum pour :
 
 ## Fonctionnement de la communauté
 
-La communauté se matérialise autour d'un [discord](https://discord.gg/PZaEc6B), ainsi que d'une organisation [github](https://github.com/orgs/TheExperimentalProject/).
+La communauté se matérialise autour d'un [discord](https://discord.gg/ndC3cC2), ainsi que d'une organisation [github](https://github.com/orgs/TheExperimentalProject/).
 
 ### Rejoindre la communauté
 
-Vous pouvez intégrer la communauté en rejoignant le [discord](https://discord.gg/PZaEc6B). Vous y retrouverez les channels suivantes :
+Vous pouvez intégrer la communauté en rejoignant le [discord](https://discord.gg/ndC3cC2). Vous y retrouverez les channels suivantes :
 
 - `#presentation-generale` : Présentation des règles de la communauté 🤝,
 - `#la-place-publique` : Un channel ouvert à tous, pour faire connaissance avec la communauté
